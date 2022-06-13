@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919326923848",
+    "firebase_url": "https://iotpoweranalyzer-5018b-default-rtdb.firebaseio.com",
+    "project_id": "iotpoweranalyzer-5018b",
+    "storage_bucket": "iotpoweranalyzer-5018b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919326923848:android:12a0f89501db2fd9a3cc7d",
+        "android_client_info": {
+          "package_name": "com.example.cda_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919326923848-svkts767k1f6tpnqsifkanabn1esrurs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ1aUHMfBIntpxc-isxoWgnJl7lVEeI58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919326923848-svkts767k1f6tpnqsifkanabn1esrurs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
